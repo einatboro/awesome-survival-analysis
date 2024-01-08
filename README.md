@@ -11,8 +11,8 @@ A curated list of awesome resources for survival analysis.
 
 ### R Packages
 
-- [dynpred](https://cran.r-project.org/web/packages/dynpred/index.html): Tools for the dynamic prediction in survival analysis.
 - [survival](https://cran.r-project.org/web/packages/survival/index.html): Contains the core survival analysis routines, including definition of Surv objects, Kaplan-Meier curves, and Cox models.
+- [dynpred](https://cran.r-project.org/web/packages/dynpred/index.html): Tools for the dynamic prediction in survival analysis.
 - [pec](https://search.r-project.org/CRAN/refmans/pec/html/predictSurvProb.html): Prediction error curves for risk prediction models in survival analysis.
 - [Cox model predictions](https://stat.ethz.ch/R-manual/R-devel/library/survival/html/predict.coxph.html): Documentation for making predictions from a Cox regression model.
 - [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html): Random Forests for Survival, Regression, and Classification (RF-SRC).
