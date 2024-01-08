@@ -23,6 +23,7 @@ A curated list of awesome resources for survival analysis.
 ## Vignettes
 
 - [Time-dependent covariates in survival analysis](https://cran.r-project.org/web/packages/survival/vignettes/timedep.pdf): A vignette discussing the use of time-dependent covariates in the context of survival analysis.
+- [Competing Risks in Survival Analysis](https://cran.r-project.org/web/packages/survival/vignettes/compete.pdf): A vignette covering competing risks in survival analysis from the `survival` package.
 - [How to use the Landmarking package](https://cran.r-project.org/web/packages/Landmarking/vignettes/how_to_use.html): A guide on using the Landmarking package in R.
 - [Joint Modeling using rstanarm](https://cran.r-project.org/web/packages/rstanarm/vignettes/jm.html): Vignette on joint modeling using the rstanarm package.
 
