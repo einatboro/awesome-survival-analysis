@@ -12,9 +12,10 @@ A curated list of awesome resources for survival analysis.
 ### R Packages
 
 - [survival](https://cran.r-project.org/web/packages/survival/index.html): Contains the core survival analysis routines, including definition of Surv objects, Kaplan-Meier curves, and Cox models.
+- [Cox model predictions](https://stat.ethz.ch/R-manual/R-devel/library/survival/html/predict.coxph.html): Documentation for making predictions from a Cox regression model.
+- [Concordance in Survival Analysis](https://rweb.webapps.cla.umn.edu/R/library/survival/doc/concordance.pdf): A document detailing the concept of concordance in survival analysis.
 - [dynpred](https://cran.r-project.org/web/packages/dynpred/index.html): Tools for the dynamic prediction in survival analysis.
 - [pec](https://search.r-project.org/CRAN/refmans/pec/html/predictSurvProb.html): Prediction error curves for risk prediction models in survival analysis.
-- [Cox model predictions](https://stat.ethz.ch/R-manual/R-devel/library/survival/html/predict.coxph.html): Documentation for making predictions from a Cox regression model.
 - [Landmarking](https://cran.r-project.org/web/packages/Landmarking/index.html): Methods for Landmarking and Survival Analysis.
 - [rstanarm](https://cran.r-project.org/web/packages/rstanarm/index.html): Bayesian Applied Regression Modeling via Stan.
 - [JM](https://cran.r-project.org/web/packages/JM/index.html): Joint Modeling of Longitudinal and Time-to-Event Data.
@@ -25,7 +26,7 @@ A curated list of awesome resources for survival analysis.
 ## Vignettes
 
 - [Time-dependent covariates in survival analysis](https://cran.r-project.org/web/packages/survival/vignettes/timedep.pdf): A vignette discussing the use of time-dependent covariates in the context of survival analysis.
-- [Competing Risks in Survival Analysis](https://cran.r-project.org/web/packages/survival/vignettes/compete.pdf): A vignette covering competing risks in survival analysis from the `survival` package.
+- [Competing Risks in Survival Analysis](https://cran.r-project.org/web/packages/survival/vignettes/compete.pdf): A vignette covering multi-state models and competing risks from the `survival` package.
 - [How to use the Landmarking package](https://cran.r-project.org/web/packages/Landmarking/vignettes/how_to_use.html): A guide on using the Landmarking package in R.
 - [Joint Modeling using rstanarm](https://cran.r-project.org/web/packages/rstanarm/vignettes/jm.html): Vignette on joint modeling using the rstanarm package.
 
@@ -33,5 +34,9 @@ A curated list of awesome resources for survival analysis.
 - [Survival Analysis Basics](http://www.sthda.com/english/wiki/survival-analysis-basics): A comprehensive tutorial on survival analysis basics by STHDA, covering key concepts, methods, and R implementation.
 - [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html): An extensive tutorial by Emily Zabor on performing survival analysis in R.
 - [An Introduction to Joint Modeling in R](https://www.r-bloggers.com/2018/02/an-introduction-to-joint-modeling-in-r/): A tutorial on joint modeling in R from R-bloggers.
+
+## Papers
+- [Prognostic Factor Analysis using Survival Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321736/): An academic article from NCBI discussing methods and considerations in prognostic factor analysis using survival data, providing insights into advanced survival analysis techniques.
+
 
 
