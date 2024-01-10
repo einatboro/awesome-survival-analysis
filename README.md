@@ -15,10 +15,12 @@ A curated list of awesome resources for survival analysis.
 - [dynpred](https://cran.r-project.org/web/packages/dynpred/index.html): Tools for the dynamic prediction in survival analysis.
 - [pec](https://search.r-project.org/CRAN/refmans/pec/html/predictSurvProb.html): Prediction error curves for risk prediction models in survival analysis.
 - [Cox model predictions](https://stat.ethz.ch/R-manual/R-devel/library/survival/html/predict.coxph.html): Documentation for making predictions from a Cox regression model.
-- [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html): Random Forests for Survival, Regression, and Classification (RF-SRC).
 - [Landmarking](https://cran.r-project.org/web/packages/Landmarking/index.html): Methods for Landmarking and Survival Analysis.
 - [rstanarm](https://cran.r-project.org/web/packages/rstanarm/index.html): Bayesian Applied Regression Modeling via Stan.
 - [JM](https://cran.r-project.org/web/packages/JM/index.html): Joint Modeling of Longitudinal and Time-to-Event Data.
+- [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html): Random Forests for Survival, Regression, and Classification (RF-SRC).
+- [LTRCforests](https://cran.r-project.org/web/packages/LTRCforests/index.html): Analyzes Long-Term, Right-Censored longitudinal data using random forests, suitable for censored data in medical and reliability studies.
+
 
 ## Vignettes
 
@@ -28,7 +30,7 @@ A curated list of awesome resources for survival analysis.
 - [Joint Modeling using rstanarm](https://cran.r-project.org/web/packages/rstanarm/vignettes/jm.html): Vignette on joint modeling using the rstanarm package.
 
 ## Tutorials
-
+- [Survival Analysis Basics](http://www.sthda.com/english/wiki/survival-analysis-basics): A comprehensive tutorial on survival analysis basics by STHDA, covering key concepts, methods, and R implementation.
 - [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html): An extensive tutorial by Emily Zabor on performing survival analysis in R.
 - [An Introduction to Joint Modeling in R](https://www.r-bloggers.com/2018/02/an-introduction-to-joint-modeling-in-r/): A tutorial on joint modeling in R from R-bloggers.
 
