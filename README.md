@@ -19,8 +19,10 @@ A curated list of awesome resources for survival analysis.
 - [Landmarking](https://cran.r-project.org/web/packages/Landmarking/index.html): Methods for Landmarking and Survival Analysis.
 - [rstanarm](https://cran.r-project.org/web/packages/rstanarm/index.html): Bayesian Applied Regression Modeling via Stan.
 - [JM](https://cran.r-project.org/web/packages/JM/index.html): Joint Modeling of Longitudinal and Time-to-Event Data.
+- [JMbayes](https://cran.r-project.org/web/packages/JMbayes/index.html): Joint modeling of longitudinal and time-to-event data, employing Bayesian methods with MCMC techniques
 - [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html): Random Forests for Survival, Regression, and Classification (RF-SRC).
 - [LTRCforests](https://cran.r-project.org/web/packages/LTRCforests/index.html): Analyzes Long-Term, Right-Censored longitudinal data using random forests, suitable for censored data in medical and reliability studies.
+- 
 
 
 ## Vignettes
