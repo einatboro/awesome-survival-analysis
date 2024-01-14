@@ -39,6 +39,8 @@ A curated list of awesome resources for survival analysis.
 
 ## Papers
 - [Prognostic Factor Analysis using Survival Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321736/): An academic article from NCBI discussing methods and considerations in prognostic factor analysis using survival data, providing insights into advanced survival analysis techniques.
+- [Dynamic Predictions using Joint Modeling and Landmarking](https://www.drizopoulos.com/pdf/papers/BiomJrn_JMvsLM_paper.pdf): Dynamic Predictions with Time-Dependent Covariates in Survival Analysis using Joint Modeling and Landmarking.
+
 
 
 
