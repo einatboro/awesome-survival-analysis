@@ -23,7 +23,7 @@ A curated list of awesome resources for survival analysis.
 - [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html): Random Forests for Survival, Regression, and Classification (RF-SRC).
 - [LTRCforests](https://cran.r-project.org/web/packages/LTRCforests/index.html): Analyzes Long-Term, Right-Censored longitudinal data using random forests, suitable for censored data in medical and reliability studies.
 - [rms](https://cran.r-project.org/web/packages/rms/index.html): Regression modeling, testing, estimation, validation, graphics, prediction, and typesetting by storing enhanced model design attributes in the fit.
-- [survPresmooth] (https://cran.r-project.org/web/packages/survPresmooth/index.html): Provides presmoothed estimation in survival analysis, enhancing classical estimators with methods for incorporating all data, including censored observations.
+- [survPresmooth](https://cran.r-project.org/web/packages/survPresmooth/index.html): Provides presmoothed estimation in survival analysis, enhancing classical estimators with methods for incorporating all data, including censored observations.
 
 
 ## Vignettes
