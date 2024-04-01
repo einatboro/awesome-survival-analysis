@@ -10,7 +10,7 @@ A curated list of awesome resources for survival analysis.
 - [scikit-survival](https://pypi.org/project/scikit-survival/): A Python module for survival analysis built on top of scikit-learn.
 
 ### R Packages
-
+- [CRAN Task View: Survival Analysis] (https://cran.r-project.org/web/views/Survival.html): A comprehensive overview of available R packages for survival analysis, including tools for estimation, regression, and multistate models, along with many others aimed at the analysis of time-to-event data.
 - [survival](https://cran.r-project.org/web/packages/survival/index.html): Contains the core survival analysis routines, including definition of Surv objects, Kaplan-Meier curves, and Cox models.
 - [Cox model predictions](https://stat.ethz.ch/R-manual/R-devel/library/survival/html/predict.coxph.html): Documentation for making predictions from a Cox regression model.
 - [Concordance in Survival Analysis](https://rweb.webapps.cla.umn.edu/R/library/survival/doc/concordance.pdf): A document detailing the concept of concordance in survival analysis.
