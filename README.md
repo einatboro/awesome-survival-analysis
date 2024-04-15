@@ -26,6 +26,8 @@ A curated list of awesome resources for survival analysis.
 - [survPresmooth](https://cran.r-project.org/web/packages/survPresmooth/index.html): Provides presmoothed estimation in survival analysis, enhancing classical estimators with methods for incorporating all data, including censored observations.
 - [survminer](https://cran.r-project.org/web/packages/survminer/index.html): Facilitates the creation of survival plots, featuring 'number at risk' tables, censoring count plots, and options for customized, publication-ready outputs.
 - [gwasurvivr](https://bioc.cran.dev/packages/3.16/bioc/html/gwasurvivr.html): Enables efficient analysis of genetic variants' impact on survival outcomes.
+- [cenROC](https://cran.r-project.org/web/packages/cenROC/index.html): Provides tools for analyzing time-dependent receiver operating characteristic (ROC) curves with right-censored event time data. 
+
 
 
 ## Vignettes
