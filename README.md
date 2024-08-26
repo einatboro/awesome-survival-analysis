@@ -29,6 +29,12 @@ A curated list of awesome resources for survival analysis.
 - [gwasurvivr](https://bioc.cran.dev/packages/3.16/bioc/html/gwasurvivr.html): Enables efficient analysis of genetic variants' impact on survival outcomes.
 - [cenROC](https://cran.r-project.org/web/packages/cenROC/index.html): Provides tools for analyzing time-dependent receiver operating characteristic (ROC) curves with right-censored event time data.
 - [survivalmodels](https://cran.r-project.org/web/packages/survivalmodels/index.html): Extensive suite for survival analysis in R, offering a broad array of tools for modeling, prediction, and inference. Features support for time-dependent covariates, multiple types of censoring, and complex survival models.
+- [survivalAnalysis](https://cran.r-project.org/web/packages/survivalAnalysis/index.html): High-Level Interface for Survival Analysis and Associated Plots
+- [SurvMetrics](https://cran.r-project.org/web/packages/SurvMetrics/index.html): Comprehensive performance metrics for survival models
+- [icensBKL](https://cran.r-project.org/web/packages/icensBKL/index.html): Bias-corrected estimation for interval-censored data
+- [SmoothHazard](https://cran.r-project.org/web/packages/SmoothHazard/index.html): Smooth hazard models for interval-censored data
+- [bayesSurv](https://cran.rstudio.com/web/packages/BayesSUR/index.html): Bayesian Survival Regression with Flexible Error and Random Effects Distributions
+
 
 
 
