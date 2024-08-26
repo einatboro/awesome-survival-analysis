@@ -8,6 +8,7 @@ A curated list of awesome resources for survival analysis.
 
 - [lifelines](https://pypi.org/project/lifelines/): A complete survival analysis library, written in pure Python.
 - [scikit-survival](https://pypi.org/project/scikit-survival/): A Python module for survival analysis built on top of scikit-learn.
+- [PySurvival](https://pypi.org/project/pysurvival/): A Python package for survival analysis, offering 10+ models from Cox PH to Random Survival Forests, with tools for model building, cross-validation, and prediction.
 
 ### R Packages
 - [CRAN Task View: Survival Analysis](https://cran.r-project.org/web/views/Survival.html): A comprehensive overview of available R packages for survival analysis, including tools for estimation, regression, and multistate models, along with many others aimed at the analysis of time-to-event data.
