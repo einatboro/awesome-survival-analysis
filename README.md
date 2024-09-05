@@ -35,9 +35,9 @@ A curated list of awesome resources for survival analysis.
 - [SmoothHazard](https://cran.r-project.org/web/packages/SmoothHazard/index.html): Smooth hazard models for interval-censored data
 - [bayesSurv](https://cran.rstudio.com/web/packages/BayesSUR/index.html): Bayesian Survival Regression with Flexible Error and Random Effects Distributions
 
+### Julia Packages
 
-
-
+- [Survival.jl](https://juliastats.org/Survival.jl/latest/): Provides types and methods for performing survival analysis in Julia (event times, Kaplan-Meier Estimator, Nelson-Aalen Estimator, Cox Proportional Hazards Model)
 
 
 ## Vignettes
