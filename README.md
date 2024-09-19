@@ -34,6 +34,8 @@ A curated list of awesome resources for survival analysis.
 - [icensBKL](https://cran.r-project.org/web/packages/icensBKL/index.html): Bias-corrected estimation for interval-censored data
 - [SmoothHazard](https://cran.r-project.org/web/packages/SmoothHazard/index.html): Smooth hazard models for interval-censored data
 - [bayesSurv](https://cran.rstudio.com/web/packages/BayesSUR/index.html): Bayesian Survival Regression with Flexible Error and Random Effects Distributions
+- [censored](https://cran.r-project.org/web/packages/censored/index.html): Censored is the backend engines that are used by [parsnip](https://parsnip.tidymodels.org/articles/parsnip.html) which of itself is part of the tidymodels ecosystem.
+- [tidymodels](https://www.tidymodels.org): Tidymodels is a collection of packages for modeling and machine learning using tidyverse principles. It includes many ML implementations, including survival analysis. Use the search option to find the survival analysis package (mainly {parsnip} and {censored}) you need.
 
 ### Julia Packages
 
