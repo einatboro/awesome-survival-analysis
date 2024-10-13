@@ -34,6 +34,8 @@ A curated list of awesome resources for survival analysis.
 - [icensBKL](https://cran.r-project.org/web/packages/icensBKL/index.html): Bias-corrected estimation for interval-censored data
 - [SmoothHazard](https://cran.r-project.org/web/packages/SmoothHazard/index.html): Smooth hazard models for interval-censored data
 - [bayesSurv](https://cran.rstudio.com/web/packages/BayesSUR/index.html): Bayesian Survival Regression with Flexible Error and Random Effects Distributions
+- [censored](https://cran.r-project.org/web/packages/censored/index.html): Censored is the backend engines that are used by [parsnip](https://parsnip.tidymodels.org/articles/parsnip.html) which of itself is part of the tidymodels ecosystem.
+- [tidymodels](https://www.tidymodels.org): Tidymodels is a collection of packages for modeling and machine learning using tidyverse principles. It includes many ML implementations, including survival analysis. Use the search option to find the survival analysis package (mainly {parsnip} and {censored}) you need.
 
 ### Julia Packages
 
@@ -46,11 +48,14 @@ A curated list of awesome resources for survival analysis.
 - [Competing Risks in Survival Analysis](https://cran.r-project.org/web/packages/survival/vignettes/compete.pdf): A vignette covering multi-state models and competing risks from the `survival` package.
 - [How to use the Landmarking package](https://cran.r-project.org/web/packages/Landmarking/vignettes/how_to_use.html): A guide on using the Landmarking package in R.
 - [Joint Modeling using rstanarm](https://cran.r-project.org/web/packages/rstanarm/vignettes/jm.html): Vignette on joint modeling using the rstanarm package.
+- [Survival Analysis using tidymodels](https://www.tidymodels.org/learn/statistics/survival-metrics/): A ‘Get Started’ for event-time based models. 
 
 ## Tutorials
 - [Survival Analysis Basics](http://www.sthda.com/english/wiki/survival-analysis-basics): A comprehensive tutorial on survival analysis basics by STHDA, covering key concepts, methods, and R implementation.
 - [Survival Analysis in R](https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html): An extensive tutorial by Emily Zabor on performing survival analysis in R.
 - [An Introduction to Joint Modeling in R](https://www.r-bloggers.com/2018/02/an-introduction-to-joint-modeling-in-r/): A tutorial on joint modeling in R from R-bloggers.
+- [Survival Analysis in tidymodels](https://www.youtube.com/watch?v=orAlJ321hOc&amp;pp=ygUxc3Vydml2YWwgYW5hbHlzaXMgaW4gdGlkeW1vZGVscyB3aXRoIEp1bGlhIFNpbGdlIA%3D%3D): A brief intro to survival analysis by Max Kuhn (author of the tidymodels).
+- [Survival Analysis in tidymodels 2](https://www.youtube.com/watch?v=E5XG1c7tNW0&amp;pp=ygUxc3Vydml2YWwgYW5hbHlzaXMgaW4gdGlkeW1vZGVscyB3aXRoIEp1bGlhIFNpbGdlIA%3D%3D):  A brief intro to survival analysis from the 2022 R conference.
 
 ## Papers
 - [Prognostic Factor Analysis using Survival Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321736/): An academic article from NCBI discussing methods and considerations in prognostic factor analysis using survival data, providing insights into advanced survival analysis techniques.
