@@ -9,6 +9,8 @@ A curated list of awesome resources for survival analysis.
 - [lifelines](https://pypi.org/project/lifelines/): A complete survival analysis library, written in pure Python.
 - [scikit-survival](https://pypi.org/project/scikit-survival/): A Python module for survival analysis built on top of scikit-learn.
 - [PySurvival](https://pypi.org/project/pysurvival/): A Python package for survival analysis, offering 10+ models from Cox PH to Random Survival Forests, with tools for model building, cross-validation, and prediction.
+- [pycox](https://pypi.org/project/pycox/): A Python package for survival analysis and time-to-event prediction with PyTorch. It is built on the torchtuples package for training PyTorch models.
+- [Survivors](https://pypi.org/project/survivors/): A Python library for survival analysis designed to handle real-world, messy, and heterogeneous data. The library contains 18 open datasets (medicine, CRM) and new tree-based methods (Survival Tree, Bootstrap, Adaptive Boosting) with high sensitivity and prediction quality.
 
 ### R Packages
 - [CRAN Task View: Survival Analysis](https://cran.r-project.org/web/views/Survival.html): A comprehensive overview of available R packages for survival analysis, including tools for estimation, regression, and multistate models, along with many others aimed at the analysis of time-to-event data.
@@ -61,7 +63,9 @@ A curated list of awesome resources for survival analysis.
 - [Prognostic Factor Analysis using Survival Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321736/): An academic article from NCBI discussing methods and considerations in prognostic factor analysis using survival data, providing insights into advanced survival analysis techniques.
 - [Dynamic Predictions using Joint Modeling and Landmarking](https://www.drizopoulos.com/pdf/papers/BiomJrn_JMvsLM_paper.pdf): Dynamic Predictions with Time-Dependent Covariates in Survival Analysis using Joint Modeling and Landmarking.
 - [Concordance for Survival Time Data](https://www.mayo.edu/research/documents/biostat-80pdf/doc-10027891): Concordance in survival analysis with fixed and time-dependent covariates, including methods for dealing with ties in predictor and event times.
-
+- [Informative right censoring in nonparametric survival models](https://link.springer.com/article/10.1007/s00180-025-01610-9): Research and modification of nonparametric models for working with cases of informative censoring.
+- [Sensitivity of Survival Analysis Metrics](https://www.mdpi.com/2227-7390/11/20/4246#metrics): Research of the advantages and disadvantages of existing survival analysis metrics (with proposed modifications to overcome bias).
+- [Stratified Statistical Models in Hardware Reliability Analysis](https://link.springer.com/article/10.1007/s00180-025-01610-9): Research on extending statistical models using survival trees (processing categories, missings, and improving the stability of local estimates) in the task of analyzing the reliability of hard drives.
 
 
 
