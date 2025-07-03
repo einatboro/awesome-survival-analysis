@@ -58,6 +58,7 @@ A curated list of awesome resources for survival analysis.
 - [An Introduction to Joint Modeling in R](https://www.r-bloggers.com/2018/02/an-introduction-to-joint-modeling-in-r/): A tutorial on joint modeling in R from R-bloggers.
 - [Survival Analysis in tidymodels](https://www.youtube.com/watch?v=orAlJ321hOc&amp;pp=ygUxc3Vydml2YWwgYW5hbHlzaXMgaW4gdGlkeW1vZGVscyB3aXRoIEp1bGlhIFNpbGdlIA%3D%3D): A brief intro to survival analysis by Max Kuhn (author of the tidymodels).
 - [Survival Analysis in tidymodels 2](https://www.youtube.com/watch?v=E5XG1c7tNW0&amp;pp=ygUxc3Vydml2YWwgYW5hbHlzaXMgaW4gdGlkeW1vZGVscyB3aXRoIEp1bGlhIFNpbGdlIA%3D%3D):  A brief intro to survival analysis from the 2022 R conference.
+- [Inverse Probability of Censoring Weighting (IPCW) for treatment switching](https://cran.r-project.org/web/packages/trtswitch/vignettes/ipcw.html): A vignette on handling treatment switching using inverse probability of censoring weighting methods in R.
 
 ## Papers
 - [Prognostic Factor Analysis using Survival Data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3321736/): An academic article from NCBI discussing methods and considerations in prognostic factor analysis using survival data, providing insights into advanced survival analysis techniques.
