@@ -38,7 +38,7 @@ A curated list of awesome resources for survival analysis.
 - [bayesSurv](https://cran.rstudio.com/web/packages/BayesSUR/index.html): Bayesian Survival Regression with Flexible Error and Random Effects Distributions
 - [censored](https://cran.r-project.org/web/packages/censored/index.html): Censored is the backend engines that are used by [parsnip](https://parsnip.tidymodels.org/articles/parsnip.html) which of itself is part of the tidymodels ecosystem.
 - [tidymodels](https://www.tidymodels.org): Tidymodels is a collection of packages for modeling and machine learning using tidyverse principles. It includes many ML implementations, including survival analysis. Use the search option to find the survival analysis package (mainly {parsnip} and {censored}) you need.
-- [Inverse Probability of Censoring Weighting (IPCW) for treatment switching](https://cran.r-project.org/web/packages/trtswitch/vignettes/ipcw.html): A vignette on handling treatment switching using inverse probability of censoring weighting methods in R.
+
 
 ### Julia Packages
 
@@ -52,6 +52,7 @@ A curated list of awesome resources for survival analysis.
 - [How to use the Landmarking package](https://cran.r-project.org/web/packages/Landmarking/vignettes/how_to_use.html): A guide on using the Landmarking package in R.
 - [Joint Modeling using rstanarm](https://cran.r-project.org/web/packages/rstanarm/vignettes/jm.html): Vignette on joint modeling using the rstanarm package.
 - [Survival Analysis using tidymodels](https://www.tidymodels.org/learn/statistics/survival-metrics/): A ‘Get Started’ for event-time based models.
+- [Inverse Probability of Censoring Weighting (IPCW) for treatment switching](https://cran.r-project.org/web/packages/trtswitch/vignettes/ipcw.html): A vignette on handling treatment switching using inverse probability of censoring weighting methods in R.
 
 
 ## Tutorials
