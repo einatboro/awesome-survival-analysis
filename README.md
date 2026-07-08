@@ -12,6 +12,7 @@ A curated list of awesome resources for survival analysis.
 - [pycox](https://pypi.org/project/pycox/): A Python package for survival analysis and time-to-event prediction with PyTorch. It is built on the torchtuples package for training PyTorch models.
 - [Survivors](https://pypi.org/project/survivors/): A Python library for survival analysis designed to handle real-world, messy, and heterogeneous data. The library contains 18 open datasets (medicine, CRM) and new tree-based methods (Survival Tree, Bootstrap, Adaptive Boosting) with high sensitivity and prediction quality.
 - [comprisk](https://pypi.org/project/comprisk/): Python toolkit for competing risks. Random Survival Forest with Aalen–Johansen CIF, Nelson–Aalen CHF, cause-specific Harrell/Uno-IPCW C-indices, and OOB permutation VIMP. 10–22× faster than randomForestSRC on real EHR data; scales to n=10⁶ in ~1 min.
+- [FLEXI-Haz](https://github.com/AsafBanana/FLEXI-Haz): Flexible deep neural network (DNN) framework for modeling survival data within a partially linear regression structure.
 
 ### R Packages
 - [CRAN Task View: Survival Analysis](https://cran.r-project.org/web/views/Survival.html): A comprehensive overview of available R packages for survival analysis, including tools for estimation, regression, and multistate models, along with many others aimed at the analysis of time-to-event data.
